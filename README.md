@@ -1,4 +1,9 @@
-# Project Setup
+
+# About
+Boilerplate for Material-UI with TS + Storybook + NextJS
+
+
+## Project Setup
 
 - Nextjs
 - TypeScript
